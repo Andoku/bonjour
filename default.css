@@ -9,14 +9,14 @@ body {
 -----------------------------------------------*/
 
 #content {
-width:800px;
+width:900px;
 margin:20px auto 20px;
 }
 
 .slider {
 float:left;
-width:800px;
-height:350px;
+width:900px;
+height:450px;
 position:relative;
 padding-bottom:26px;
 background:url(images/bottom_shadow.png) no-repeat bottom center;
@@ -24,8 +24,8 @@ background:url(images/bottom_shadow.png) no-repeat bottom center;
 
 .sliderContent {
 float:left;
-width:800px;
-height:350px;
+width:900px;
+height:450px;
 clear:both;
 position:relative;
 overflow:hidden;
