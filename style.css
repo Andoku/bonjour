@@ -144,7 +144,7 @@ h3 {
 	float: right;
 	position: absolute;
 	right: 10px;
-	bottom: 10px;
+	top: 10px;
 }
 
 .list-inline li {
@@ -205,7 +205,9 @@ h3 {
 	-o-transform: scale(1.1) rotate(360deg);
 	transform: scale(1.1) rotate(360deg);
 }
- 
+.social-icons .fa-instagram{background-color:#A1755C;}
+.social-icons .fa-tripadvisor{background-color:#A1755C;}
+
 .social-icons .fa-adn{background-color:#504e54;} 
 .social-icons .fa-apple{background-color:#aeb5c5;} 
 .social-icons .fa-android{background-color:#A5C63B;}  
@@ -220,7 +222,6 @@ h3 {
 .social-icons .fa-github,.social-icons .fa-github-alt,.social-icons .fa-github-square{background-color:#070709;} 
 .social-icons .fa-google-plus,.social-icons .fa-google-plus-square{background-color:#CF3D2E;} 
 .social-icons .fa-html5{background-color:#E54D26;}
-.social-icons .fa-instagram{background-color:#A1755C;}
 .social-icons .fa-linkedin,.social-icons .fa-linkedin-square{background-color:#0085AE;} 
 .social-icons .fa-linux{background-color:#FBC002;color:#333;}
 .social-icons .fa-maxcdn{background-color:#F6AE1C;}
